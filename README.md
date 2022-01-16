@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sahilkumar07021997
-- 👀 I’m interested in Java  Backend development
-- 🌱 I’m currently learning Java Backend and front end libraries
-- 💞️ I’m looking to collaborate on MNCs
+- 👋 Hi, I’m @Sahilkumar07021997.
+- 👀 I’m interested in full stack web-devlopment.
+- 🌱 I’m currently learning JavaScript and front end libraries and frameworks.
+- 💞️ I’m looking to collaborate on web-devops projects.
 - 📫 How to reach me sahilkumardhiman07@gmail.com
 
 <!---
