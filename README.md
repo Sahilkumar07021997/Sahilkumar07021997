@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Sahilkumar07021997.
-- 👀 I’m interested in full stack web-devlopment.
-- 🌱 I’m currently learning JavaScript and front end libraries and frameworks.
-- 💞️ I’m looking to collaborate on web-devops projects.
+- 👀 I’m a Full Stack Developer with +2yrs of experience.
+- 🌱 I Know Languages like : JavaScript, Python, JAVA, HTML.
+- 🤠 I've Experinced in fronend Frameworks like: REACT & Redux, CSS & Bootstarp etc.
+- 👨🏻‍💻 I've Experinced in backend Frameworks like: NodeJS, Flask, and DB like: PostgreSQL, MONGODB etc.
+- 💞️ I’m looking to collaborate on Web applications and interactive projects.
 - 📫 How to reach me sahilkumardhiman07@gmail.com
 
 <!---
