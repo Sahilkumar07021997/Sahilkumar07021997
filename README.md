@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @Sahilkumar07021997.
-- 👀 I’m a Full Stack Developer with +2yrs of experience.
-- 🌱 I Know Languages like : JavaScript, Python, JAVA, HTML.
-- 🤠 I've Experinced in fronend Frameworks like: REACT & Redux, CSS & Bootstarp etc.
-- 👨🏻‍💻 I've Experinced in backend Frameworks like: NodeJS, Flask, and DB like: PostgreSQL, MONGODB etc.
-- 💞️ I love to collaborate and work on amazing Web applications and interactive projects.
-- 📫 How to reach me sahilkumardhiman07@gmail.com
+👋 Hello, I'm Sahil Kumar
 
+
+🌐 Full Stack Developer | 2.5+ Years of Experience
+
+
+🚀 Tech Stack Experience:
+
+  Languages: JavaScript, Python, Java
+  
+  Frontend Frameworks & Libraries: React, Redux, CSS, Typescript
+  
+  Backend Frameworks & Libraries: Node.js, Python Flask, FastApi, Langchain
+  
+  Databases: PostgreSQL, MongoDB
+  
+  Misc: Git, CI/CD Pipelines, Docker, Fastapi with ORM, Scripting etc.
+
+
+💡 About Me:
+I’m passionate about crafting seamless, user-friendly web applications and collaborating on innovative, AI driven and impactful projects.
+
+
+📫 Let's Connect: Email: sahilkumardhiman07@gmail.com | [LinkedIn](https://www.linkedin.com/in/sahil-kumar-aa868218b/)
 <!---
 Sahilkumar07021997/Sahilkumar07021997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
