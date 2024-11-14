@@ -1,7 +1,7 @@
 👋 Hello, I'm Sahil Kumar
 
 
-🌐 Full Stack Developer | 2.5+ Years of Experience
+🌐 Full Stack Developer | 3+ Years of Experience
 
 
 🚀 Tech Stack Experience:
